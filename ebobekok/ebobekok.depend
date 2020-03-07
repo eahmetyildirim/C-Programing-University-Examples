@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509831811 source:d:\calismalarim\codeblocks\ebobekok\main.c
+	<stdio.h>
+	<stdlib.h>
+

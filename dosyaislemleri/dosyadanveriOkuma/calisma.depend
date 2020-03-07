@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527592083 source:d:\calismalarim\codeblocks\dosyaislemleri\calisma\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527212308 source:d:\calismalarim\codeblocks\dosyaislemleri\dosyayaveriyazma\main.c
+	<stdio.h>
+	<stdlib.h>
+

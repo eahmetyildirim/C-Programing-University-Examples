@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522414620 source:d:\calismalarim\codeblocks\proglamlama2vize\strcpm\main.c
+	<stdio.h>
+	<string.h>
+

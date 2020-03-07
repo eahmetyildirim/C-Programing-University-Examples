@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523913354 source:d:\calismalarim\codeblocks\bulcikar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

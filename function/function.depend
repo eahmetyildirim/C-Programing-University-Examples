@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509050151 source:d:\calismalarim\codeblocks\function\main.c
+	<stdio.h>
+	<conio.h>
+

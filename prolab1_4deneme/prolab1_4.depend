@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545494278 source:d:\calismalarim\codeblocks\prolab1_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546028707 source:d:\calismalarim\codeblocks\prolab1_4deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

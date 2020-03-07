@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545840901 source:d:\calismalarim\codeblocks\denemee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

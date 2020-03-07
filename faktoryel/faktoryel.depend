@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508498488 source:d:\calismalarim\codeblocks\faktoryel\main.c
+	<stdio.h>
+	<stdlib.h>
+

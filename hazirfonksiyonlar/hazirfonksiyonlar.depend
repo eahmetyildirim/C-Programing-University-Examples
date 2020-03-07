@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521031675 source:d:\calismalarim\codeblocks\hazirfonksiyonlar\main.c
+	<stdio.h>
+	<stdlib.h>
+

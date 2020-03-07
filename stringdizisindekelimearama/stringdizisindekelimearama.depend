@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521602278 source:d:\calismalarim\codeblocks\stringdizisindekelimearama\main.c
+	<stdio.h>
+	<string.h>
+

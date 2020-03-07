@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542590951 source:d:\calismalarim\codeblocks\veriyapilari\binarysearch\main.c
+	<stdio.h>
+	<stdlib.h>
+

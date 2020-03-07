@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507187615 source:d:\calismalarim\codeblocks\quiz21\main.c
+	<stdio.h>
+	<stdlib.h>
+

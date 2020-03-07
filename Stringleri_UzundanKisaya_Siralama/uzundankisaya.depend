@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521501241 source:d:\calismalarim\codeblocks\uzundankisaya\main.c
+	<stdio.h>
+	<stdlib.h>
+

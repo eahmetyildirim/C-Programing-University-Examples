@@ -1,0 +1,5 @@
+fred-wilson,tocqueville-new-york,2010-10-22T23:44:29,40.7363,-73.9922,New York,Food:American
+fred-wilson,wesleyan-university-usdan-university-center-middle,2010-10-23T17:00:24,41.556974,-72.657571,Middletown,College & Education:Student Center
+fred-wilson,javapalooza-middletown,2010-10-23T20:30:45,41.5588525,-72.6486184,Middletown,Food:Coffee Shop
+fred-wilson,giorgione-new-york,2010-10-24T00:22:49,40.726144,-74.008348,New York,Food:Italian
+fred-wilson,giorgione-new-york,2010-10-24T00:22:49,40.726144,-74.008348,New York,Home:Italian

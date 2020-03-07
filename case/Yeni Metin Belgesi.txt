@@ -1,0 +1,2 @@
+1 dakika=60sn
+1 saat=60dk=60*60sn=3600sn;
